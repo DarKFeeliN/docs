@@ -44,11 +44,39 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+#html_theme = 'alabaster'
+html_theme = 'default'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+# The master toctree document.
 master_doc = 'index'
+
+# Add any Sphinx extension module names here, as strings. They can be
+# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
+# ones.
+extensions = []
+
+# The suffix of source filenames.
+source_suffix = '.rst'
+
+# General information about the project.
+project = u'DarKFeeliN-Docs'
+copyright = u'2019, DarKFeeliN'
+
+# The version info for the project you're documenting, acts as replacement for
+# |version| and |release|, also used in various other places throughout the
+# built documents.
+#
+# The short X.Y version.
+#version = '1.0'
+# The full version, including alpha/beta/rc tags.
+#release = '1.0'
+
+# Add any paths that contain custom static files (such as style sheets) here,
+# relative to this directory. They are copied after the builtin static files,
+# so a file named "default.css" will overwrite the builtin "default.css".
+html_static_path = ['_static']
