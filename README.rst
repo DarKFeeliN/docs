@@ -3,6 +3,8 @@ DarKFeeliN-Docs
 
 Here I will document the projects I get my hands on. This is by no means a guide how you should do it, but how I do it on the way that I learn how to use all this stuff. For you to read and for me to remember.
 
+There also might be a blog coming with some more info on specific projects at https://www.darkfeelin.de
+
 Projects
 --------
 
