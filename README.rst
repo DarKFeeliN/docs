@@ -16,14 +16,8 @@ Projects
 Contribute
 ----------
 
-- Issue Tracker: github.com/DarKFeeliN/docs/issues
-- Source Code: github.com/DarKFeeliN/docs
-
-Support
--------
-
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
+- Issue Tracker: https://github.com/DarKFeeliN/docs/issues
+- Source Code: https://github.com/DarKFeeliN/docs
 
 License
 -------
